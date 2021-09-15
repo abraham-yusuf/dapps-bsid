@@ -15,7 +15,7 @@ function App() {
   return (
     <Container my={8} maxW="container.lg">
       <Heading as="h1" size="4xl">
-        react-moralis examples
+        Blockchain Studio ID
       </Heading>
       <Box mt={16} mb={16}>
         <Wrap direction="row" spacing={4}>

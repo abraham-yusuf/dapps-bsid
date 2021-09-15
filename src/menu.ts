@@ -1,3 +1,18 @@
+import { Assets } from "./modules/Assets";
+import { Authentication } from "./modules/Authentication";
+import { Login } from "./modules/Login";
+import { QueryLive } from "./modules/QueryLive";
+import { QueryManual } from "./modules/QueryManual";
+import { QueryObject } from "./modules/QueryObject";
+import { QuerySimple } from "./modules/QuerySimple";
+import { Subscription } from "./modules/Subscription";
+import { File } from "./modules/File";
+import { User } from "./modules/User";
+import { FileIpfs } from "./modules/FileIpfs";
+import { CloudFunction } from "./modules/CloudFunction";
+import { Web3 } from "./modules/Web3";
+import { Web3Api } from "./modules/Web3Api";
+
 export const menu = [
   {
     path: "/authentication",
